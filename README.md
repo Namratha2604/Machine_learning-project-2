@@ -1,1 +1,2 @@
-#Machine_learning-project-2
+# Machine_learning-project-1
+Airlines prediction using random forest classifier
