@@ -31,8 +31,8 @@ To set up the project, follow the steps below:
 
 3.Install the required Python libraries
   ```bash
-  pip install -r requirements.txt
-```
+   pip install -r requirements.txt
+  ```
 
 ## Conclusion
 
